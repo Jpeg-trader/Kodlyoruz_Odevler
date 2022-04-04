@@ -1,4 +1,4 @@
-# 1 Soru cevap
+## 1 Soru cevap
 
 - 1. Adım (22,27,16,2,18,6)
 
@@ -25,8 +25,24 @@ Big-O gosterimi O(n^2)
 
 ## 3 Soru cevap
 
-Worst Case: 1'den N'e kadar tüm verilerin dolaşılması gerekeceği için n(n+1)/2 -- n^2+n olur bu da Big O Notation değerini O(n^2) olarak verir.
+Worst Case: O(n^2)
 
-Avarage Case: Veri dizisi kısmen karışık durumdadır. Big O Notation O(n^2) olur.
+Avarage Case: O(n^2)
 
-Best Case: Veri dizisi sıralı haldedir ve dizi sadece n kadar kontrol edilir bu durumda da Big O Notation değeri O(n) olur.
+Best Case: Veri dizisi sirali haldedir ve dizi sadece n kadar kontrol edilir onun icin Big O Notation degeri O(n) olur
+
+## 4 Soru cevap
+
+18 Sayısı veri dizisinin ortasında oldugu icin Average case olur
+
+## 5 Soru cevap
+
+- 1. Adim (7,3,5,8,2,9,4,15,6)
+     3 7 den kucuk onun icin onu en basa aldim
+- 2. Adim (3,7,5,8,2,9,4,15,6)
+     5 den kucuk onun icin yerlerin degistiryoruz
+- 3. Adim (3,5,7,8,2,9,4,15,6)
+     8 zaten kalan degerlerden kucuk onun icin yerinde kaliyor
+- 4. Adim (3,5,7,8,2,9,4,15,6)
+     2 siradaki baska degerlden kucuk oldugu icin onu en basa aldim
+- 4 adimin sonucu=(2,3,5,7,8,9,4,15,6)
