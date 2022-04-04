@@ -1,6 +1,6 @@
 ## 1 Soru cevap
 
-![Solution](blob:https://web.telegram.org/ec52b518-64b5-47fb-af5e-26b1f08caccc)
+![Solution](Kodlyoruz_Odevler\Images\photo5357472953433963080.jpg")
 
 ## 2 Soru Cevap
 
